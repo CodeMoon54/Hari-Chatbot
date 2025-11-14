@@ -1,7 +1,7 @@
 import os
 
 # Configuración de API
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "your_gemini_api_key_here")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyAWsMXWcJD2EeCvTbmeSW7KtBus5a0MAhE")
 
 # Configuración de la aplicación
 APP_CONFIG = {
