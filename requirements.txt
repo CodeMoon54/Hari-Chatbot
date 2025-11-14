@@ -1,3 +1,6 @@
-google-generativeai
 gradio
-pillow
+google-genai
+sqlite3
+requests
+python-dateutil
+pyngrok
